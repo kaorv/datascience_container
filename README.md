@@ -4,7 +4,7 @@
 docker,docker-compose がinstallされている.
 
 
-###　起動手順
+### 起動手順
 1. src/に移動して,下記コマンドを実行する.
 ```
 docker-compose up --build -d
