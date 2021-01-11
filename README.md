@@ -8,7 +8,7 @@ docker,docker-compose がinstallされている.
 ## 起動手順
 1. zipファイルをダウンロードし,Desktop上で解凍する.
 
-2. datascience_container-main/(zip解凍した後のフォルダ直下)に移動して,下記コマンドを実行する.(初回,imageを消している場合は25分程度かかる.)
+2. datascience_container-main/(zip解凍した後のフォルダ直下)に移動して,下記コマンドを実行する.(初回,imageを消している場合は30分程度かかる.)
 ```
 docker-compose up --build -d
 ```
